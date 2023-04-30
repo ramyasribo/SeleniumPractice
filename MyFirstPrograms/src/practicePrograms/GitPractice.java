@@ -7,6 +7,7 @@ public class GitPractice {
 		System.out.println("This is for Git class");
 		System.out.println("Modifying");
 		System.out.println("More Changes");
+		System.out.println("Added new line");
 
 	}
 
